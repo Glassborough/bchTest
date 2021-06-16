@@ -22,19 +22,19 @@ public class AccountDetailsController implements Initializable {
     @FXML
     TextField usernameField;
     @FXML
-    TextField nameField;
+    private TextField nameField;
     @FXML
-    TextField sexField;
+    private TextField sexField;
     @FXML
-    TextField birthdateField;
+    private TextField birthdateField;
     @FXML
-    TextField roleField;
+    private TextField roleField;
     @FXML
-    Text emailText;
+    private Text emailText;
     @FXML
-    Text usernameText;
+    private Text usernameText;
     @FXML
-    Text nameText;
+    private Text nameText;
     @FXML
     Text sexText;
     @FXML
