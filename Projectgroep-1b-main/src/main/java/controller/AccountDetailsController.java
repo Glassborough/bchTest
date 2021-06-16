@@ -22,7 +22,7 @@ public class AccountDetailsController implements Initializable {
     @FXML
     TextField usernameField;
     @FXML
-    private TextField nameField;
+    private TextField nameFieldHaha;
     @FXML
     private TextField sexField;
     @FXML
@@ -30,7 +30,7 @@ public class AccountDetailsController implements Initializable {
     @FXML
     private TextField roleField;
     @FXML
-    private Text emailText;
+    private Text emailTextHaha;
     @FXML
     private Text usernameText;
     @FXML

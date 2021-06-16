@@ -27,7 +27,7 @@
         <Text layoutX="398.0" layoutY="239.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Badge" />
         <Text layoutX="398.0" layoutY="283.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Number of professions" />
 
-      <Text fx:id="emailText" layoutX="39.0" layoutY="167.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+      <Text fx:id="emailTextHaha" layoutX="39.0" layoutY="167.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
       <Text fx:id="usernameText" layoutX="39.0" layoutY="213.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
       <Text fx:id="birthDateText" layoutX="39.0" layoutY="256.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
       <Text fx:id="roleText" layoutX="39.0" layoutY="308.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
